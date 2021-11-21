@@ -27,10 +27,9 @@
     border-color: white;
   }
   
-  h2 {
+  h1 {
     text-transform: none;
     text-align: center;
-    color: black;
   }
   
   #btn-cordova-beep,
